@@ -1,0 +1,48 @@
+#testimonials {
+  padding-bottom: 0;
+  text-align: center;
+}
+
+.swiper {
+  height: fit-content;
+  padding: 3rem 0;
+}
+
+.swiper-slide {
+  cursor: grab;
+  display: flex;
+  justify-content: center;
+}
+
+.certificate {
+  background: var(--color-bg-variant);
+  border-radius: var(--border-radius-2);
+  box-shadow: var(--shadow);
+  padding: 1rem;
+  transition: var(--transition);
+  text-align: center;
+  width: 100%;
+  max-width: 350px;
+}
+
+.certificate:hover {
+  transform: translateY(-5px);
+}
+
+.certificate__image img {
+  width: 100%;
+  height: auto;
+  border-radius: var(--border-radius-2);
+  object-fit: contain;
+}
+
+.certificate__title {
+  margin-top: 1rem;
+  font-weight: 600;
+  color: var(--color-primary);
+  font-size: 1rem;
+}
+
+.swiper-pagination-bullet {
+  background: var(--color-primary);
+}
