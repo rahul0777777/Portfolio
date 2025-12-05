@@ -9,7 +9,7 @@ const data = [
         id: 1, icon: <SiAdobexd/>, title: 'Machine learning model development', desc: "I design and build intelligent ML models for predictive analytics, classification, and regression tasks using Python, scikit-learn, and TensorFlow."
     },
     {
-        id: 2, icon: <RiReactjsLine/>, title: 'Deep Learning Solutions', desc: "I develop advanced deep learning models using CNNs, RNNs, and other architectures for tasks like image recognition, medical diagnosis, and automation."
+        id: 2, icon: <RiReactjsLine/>, title: 'Deep Learning ', desc: "I develop advanced deep learning models using CNNs  for tasks like image recognition, medical diagnosis, and automation."
     },
     {
         id: 3, icon: <FaServer/>, title: 'Data Analysis & Visualization', desc: "I clean, analyze, and visualize data using Pandas, NumPy, and Matplotlib to uncover insights and support data-driven decisions."
